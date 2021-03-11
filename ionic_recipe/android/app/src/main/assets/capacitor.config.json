@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.recipeangion.ionicangular",
   "appName": "ionic_recipe",
   "bundledWebRuntime": false,
   "npmClient": "npm",
