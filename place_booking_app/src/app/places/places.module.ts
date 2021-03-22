@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { IonicModule } from '@ionic/angular';
 
-import { PlacesPageRoutingModule } from './places-routing.module';
+import { PlacesRoutingModule} from './places-routing.module';
 
 import { PlacesPage } from './places.page';
 
@@ -13,7 +13,7 @@ import { PlacesPage } from './places.page';
     CommonModule,
     FormsModule,
     IonicModule,
-    PlacesPageRoutingModule
+    PlacesRoutingModule
   ],
   declarations: [PlacesPage]
 })
