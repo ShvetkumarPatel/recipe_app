@@ -20,6 +20,6 @@ export class CreateBookingComponent implements OnInit {
   }
 
   onBookPlace() {
-    this.modalCtrl.dismiss({ message: 'Your place has been booked successfully!' }, 'confirm');
+    this.modalCtrl.dismiss({ message: 'This is a dummy message!' }, 'confirm');
   }
 }
